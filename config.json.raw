@@ -1,0 +1,10 @@
+{
+  "version": "2.0",
+  "app_name": "entropy-checker",
+  "environment_variables": {"BOT_TOKEN": "##BOT_TOKEN##"},
+  "stages": {
+    "dev": {
+      "api_gateway_stage": "api"
+    }
+  }
+}
